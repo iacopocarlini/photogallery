@@ -1,8 +1,5 @@
 ## Photo Gallery - Iacopo
 
 TODO 
-- social links
-- cartine bianche
-- mettere altre foto
-- aggiundere una gif?
+- switch per cambiare da foto a video
 - descrizioni testuali?
